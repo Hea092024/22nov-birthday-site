@@ -55,14 +55,15 @@ h1,h2,h3,h4,p{
 }
 
 .gift-title {
-  
+  margin: 10px; 
 }
 
 .gift-hint{
+  margin: 0;
 
 }
 
-#gift-img {
+.gift-img {
   width: 400px;
   border: 6px solid var(--white);
   border-radius: 10px;

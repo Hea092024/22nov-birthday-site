@@ -1,6 +1,4 @@
-* {
-  margin: 0;
-}
+
 
 :root {
   --font-happy: "Happy Monkey", system-ui;
@@ -8,19 +6,26 @@
   --blue: #a2d2ff;
   --white: #ffffff;
   --black: #000000;
+  --pink: #EFB0C9;
 }
 
 body {
   text-align: center;
   font-family: var(--font-happy);
   background: var(--blue);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 h1,h2,h3,h4,p{
   color: var(--white);
   text-shadow:0 0 1px var(--black) ;
 }
 
-
+h2,h4{
+    background: var(--pink);
+    
+}
 
 #img-luis {
   width: 200px;

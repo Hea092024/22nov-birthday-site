@@ -32,10 +32,16 @@ h1,h2,h3,h4,p{
 
 #bday-age{
   background: var(--pink);
+  padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
 }
 
 #bday-date {
-    background: var(--pink);    
+  margin: 0;
+    background: var(--pink);   
+    padding: 5px 10px;
+    border-radius: 5px; 
 }
 
 #img-luis {

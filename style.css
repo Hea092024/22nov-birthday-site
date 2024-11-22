@@ -73,3 +73,7 @@ h1,h2,h3,h4,p{
   margin: 0 auto;
 
 }
+
+.gift-img:hover {
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVsYTZvdjJsZDdnYnU3enA3bHE1OGM5NW44OHMzb3B3eThmb29icyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif");
+}

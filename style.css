@@ -74,6 +74,9 @@ h1,h2,h3,h4,p{
 
 }
 
-.gift-img:hover {
+#gift-img-happy:hover {
   background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVsYTZvdjJsZDdnYnU3enA3bHE1OGM5NW44OHMzb3B3eThmb29icyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif");
 }
+
+#gift-img-hot:hover {
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNyaW94ZGp3cGZ4dnZpZ3MyZ3ByenNqY2FtcHlrMjV6bDk1c3N3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7ZeCi0yTgb9AqXFm/giphy.gif");}

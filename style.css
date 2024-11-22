@@ -1,9 +1,21 @@
-*{
-    margin: 0;
-    height: 100svh;
+* {
+  margin: 0;
 }
 
-:root{
-    --font-happy: "Happy Monkey", system-ui;
-    
+:root {
+  --font-happy: "Happy Monkey", system-ui;
+  --pink: #efb0c9;
+  --blue: #a2d2ff;
+  --white: #ffffff;
+}
+
+body {
+  text-align: center;
+  font-family: var(--font-happy);
+}
+
+#img-luis {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
 }

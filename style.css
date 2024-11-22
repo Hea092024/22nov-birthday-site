@@ -50,6 +50,14 @@ h1,h2,h3,h4,p{
   border: 6px solid var(--pink);
 }
 
+#gift-section {
+  
+}
+
+#gift-hint{
+  
+}
+
 #gift-img {
   width: 400px;
 }

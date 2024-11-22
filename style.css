@@ -30,9 +30,12 @@ h1,h2,h3,h4,p{
   text-shadow:0 0 1px var(--black) ;
 }
 
-h2,h4{
-    background: var(--pink);
-    
+#bday-age{
+  background: var(--pink);
+}
+
+#bday-date {
+    background: var(--pink);    
 }
 
 #img-luis {

@@ -12,7 +12,7 @@
 body {
   text-align: center;
   font-family: var(--font-happy);
-  background: var(--blue);
+  background: linear-gradient(var(--blue), var(--pink));
   color: var(--white);
   letter-spacing: 1px;
   

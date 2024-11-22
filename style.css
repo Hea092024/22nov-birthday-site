@@ -1,7 +1,7 @@
 
 
 :root {
-  --font-happy: "Happy Monkey", system-ui;
+  --font-happy: "Happy Monkey", cursive;
   --pink: #efb0c9;
   --blue: #a2d2ff;
   --white: #ffffff;
@@ -13,10 +13,18 @@ body {
   text-align: center;
   font-family: var(--font-happy);
   background: var(--blue);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  color: var(--white);
+  
+  
 }
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
 h1,h2,h3,h4,p{
   color: var(--white);
   text-shadow:0 0 1px var(--black) ;
@@ -29,7 +37,6 @@ h2,h4{
 
 #img-luis {
   width: 200px;
-  height: 200px;
   border-radius: 50%;
   border: 6px solid var(--pink);
   

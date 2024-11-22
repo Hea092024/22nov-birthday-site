@@ -12,10 +12,16 @@
 body {
   text-align: center;
   font-family: var(--font-happy);
+  background: var(--blue);
+}
+h1{
+  color: var(--white);
 }
 
 #img-luis {
   width: 200px;
   height: 200px;
   border-radius: 50%;
+  border: 6px solid var(--pink);
+  
 }
